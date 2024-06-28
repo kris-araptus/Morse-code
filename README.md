@@ -24,3 +24,66 @@ Hello, World!
 ### Output
 
 .... . .-.. .-.. --- --..-- / .-- --- .-. .-.. -.. -.-.--
+
+
+## Morse Code Dictionary
+
+The script uses the following Morse code mappings:
+
+| Character | Morse Code | Character | Morse Code |
+|-----------|------------|-----------|------------|
+| A         | .-         | N         | -.         |
+| B         | -...       | O         | ---        |
+| C         | -.-.       | P         | .--.       |
+| D         | -..        | Q         | --.-       |
+| E         | .          | R         | .-.        |
+| F         | ..-.       | S         | ...        |
+| G         | --.        | T         | -          |
+| H         | ....       | U         | ..-        |
+| I         | ..         | V         | ...-       |
+| J         | .---       | W         | .--        |
+| K         | -.-        | X         | -..-       |
+| L         | .-..       | Y         | -.--       |
+| M         | --         | Z         | --..       |
+| 0         | -----      | 5         | .....      |
+| 1         | .----      | 6         | -....      |
+| 2         | ..---      | 7         | --...      |
+| 3         | ...--      | 8         | ---..      |
+| 4         | ....-      | 9         | ----.      |
+| ,         | --..--     | :         | ---...     |
+| .         | .-.-.-     | ;         | -.-.-.     |
+| ?         | ..--..     | =         | -...-      |
+| /         | -..-.      | +         | .-.-.      |
+| -         | -....-     | _         | ..--.-     |
+| (         | -.--.      | "         | .-..-.     |
+| )         | -.--.-     | $         | ...-..-    |
+| &         | .-...      | !         | -.-.--     |
+| @         | .--.-.     | Space     | /          |
+
+## Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/morse-code-converter.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd morse-code-converter
+    ```
+
+## Running the Script
+
+1. Ensure you have Python installed on your system.
+2. Run the script:
+    ```bash
+    python morse_code_converter.py
+    ```
+3. Enter a paragraph of text when prompted.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- The Morse code dictionary was sourced from various online references.
